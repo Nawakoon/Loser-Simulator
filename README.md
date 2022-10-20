@@ -2,11 +2,11 @@
 when I first learn Python, I try to create a one-day project to measure my study output
 ___
 ## loser_simulator1
-This is the first game a created after I start learning programming for 1 week
+This is the first game a created after I start to learn programming for 1 week
 ___
 
 ## loser_simulator2
-This is 1 year after I learing programming for 1 year. It suck but progress
+This is 1 year after I started programming for 1 year. It suck but progress
 ___
 
 ## to play
